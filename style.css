@@ -1,8 +1,9 @@
 h1{
 
 text-align:center; 
-background-color:brown;
-
+color:rgb(128, 128, 128);
+src: url(https://fonts.google.com/specimen/Grenze?selection.family=Grenze);
+font-family: 'Sofia'; font-size: 32px
 }
 
 h2{
